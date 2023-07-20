@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/bin/Debug/net7.0/HelloCS.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/refint/HelloCS.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/HelloCS.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter01/HelloCS/obj/Debug/net7.0/ref/HelloCS.dll
