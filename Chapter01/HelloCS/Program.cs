@@ -45,3 +45,23 @@ int hexadecimalNotation = 0x_001E_8480;
 
 Console.WriteLine($"decimalNotation={decimalNotation},binaryNotation={binaryNotation},hexadecimalNotation={hexadecimalNotation}");
 
+// 查看实数存储的空间
+Console.WriteLine($"size{sizeof(int)},minValue{int.MinValue:N0},maxValue{int.MaxValue:N0}");
+
+Console.WriteLine($"doubleSize内存:{sizeof(double)},decimal内存:{sizeof(decimal)}");
+
+double c = 0.1;
+double d = 0.2;
+if(c+d == 0.3){
+    Console.WriteLine("相同");
+}else{
+    Console.WriteLine("不同");
+}
+
+decimal e = 0.1m;
+decimal f = 0.2m;
+if(e+f == 0.3m){
+    Console.WriteLine("相同");
+}else{
+    Console.WriteLine("不同");
+}

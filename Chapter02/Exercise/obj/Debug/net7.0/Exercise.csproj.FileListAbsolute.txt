@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/bin/Debug/net7.0/Exercise
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/bin/Debug/net7.0/Exercise.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/bin/Debug/net7.0/Exercise.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/bin/Debug/net7.0/Exercise.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/bin/Debug/net7.0/Exercise.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/refint/Exercise.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/Exercise.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Exercise/obj/Debug/net7.0/ref/Exercise.dll
