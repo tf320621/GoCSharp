@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/bin/Debug/net7.0/Operators
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/bin/Debug/net7.0/Operators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/Operators/obj/Debug/net7.0/ref/Operators.dll

@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/bin/Debug/net7.0/BooleanOperators
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/bin/Debug/net7.0/BooleanOperators.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/bin/Debug/net7.0/BooleanOperators.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/bin/Debug/net7.0/BooleanOperators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/bin/Debug/net7.0/BooleanOperators.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/refint/BooleanOperators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/BooleanOperators.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BooleanOperators/obj/Debug/net7.0/ref/BooleanOperators.dll
