@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/bin/Debug/net7.0/SwitchTwoFace
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/bin/Debug/net7.0/SwitchTwoFace.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/bin/Debug/net7.0/SwitchTwoFace.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/bin/Debug/net7.0/SwitchTwoFace.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/bin/Debug/net7.0/SwitchTwoFace.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/refint/SwitchTwoFace.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/SwitchTwoFace.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/SwitchTwoFace/obj/Debug/net7.0/ref/SwitchTwoFace.dll
