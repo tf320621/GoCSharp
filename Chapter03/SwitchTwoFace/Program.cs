@@ -41,3 +41,19 @@ switch (s)
 }
 
 WriteLine(message);
+
+
+// 第二种写法
+message = s switch{
+    FileStream writeableFile when s.CanWrite
+    =>"the stream is a file that i can write to.",
+    FileStream readOnly
+    =>"the stream is readonly file",
+    MemoryStream memoryStream
+    =>"the stream is a memory address",
+    null
+    =>"the stream is null",
+    _
+    =>"默认default其他类型"
+};
+WriteLine($"第二种写法：{message}");
