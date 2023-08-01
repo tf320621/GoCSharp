@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/bin/Debug/net7.0/WhileAndDoWhile
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/bin/Debug/net7.0/WhileAndDoWhile.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/bin/Debug/net7.0/WhileAndDoWhile.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/bin/Debug/net7.0/WhileAndDoWhile.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/bin/Debug/net7.0/WhileAndDoWhile.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/refint/WhileAndDoWhile.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/WhileAndDoWhile.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/WhileAndDoWhile/obj/Debug/net7.0/ref/WhileAndDoWhile.dll
