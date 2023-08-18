@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/bin/Debug/net7.0/back
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/bin/Debug/net7.0/back.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/bin/Debug/net7.0/back.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/bin/Debug/net7.0/back.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/bin/Debug/net7.0/back.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.csproj.AssemblyReference.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/refint/back.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/back.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/back/obj/Debug/net7.0/ref/back.dll
