@@ -13,6 +13,7 @@ WriteLine($"a<<3:{a<<3}");
 WriteLine($"a*8:{a*8}");
 WriteLine($"b>>1:{b>>1}");
 
+
 // a&b:2
 // a|b:14
 // a^b:12

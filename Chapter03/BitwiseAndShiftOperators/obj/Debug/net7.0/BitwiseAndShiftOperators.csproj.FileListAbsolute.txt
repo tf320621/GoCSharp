@@ -3,7 +3,6 @@
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.runtimeconfig.json
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.dll
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/bin/Debug/net7.0/BitwiseAndShiftOperators.pdb
-/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.csproj.AssemblyReference.cache
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.pdb
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.genruntimeconfig.cache
 /Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/ref/BitwiseAndShiftOperators.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/obj/Debug/net7.0/BitwiseAndShiftOperators.sourcelink.json

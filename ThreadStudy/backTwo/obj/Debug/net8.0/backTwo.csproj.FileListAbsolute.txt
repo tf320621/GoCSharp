@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/bin/Debug/net8.0/backTwo
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/bin/Debug/net8.0/backTwo.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/bin/Debug/net8.0/backTwo.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/bin/Debug/net8.0/backTwo.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/bin/Debug/net8.0/backTwo.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.sourcelink.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/refint/backTwo.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/backTwo.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/ThreadStudy/backTwo/obj/Debug/net8.0/ref/backTwo.dll

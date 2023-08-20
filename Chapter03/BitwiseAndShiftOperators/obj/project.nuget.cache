@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UwFM6uv9JHg/oALIm+yfNOLtGXh8YjvOECRN2x+uv0wxn4iof13EMcBuuUpgfGDGqN+m7c0EvUZRqthPDkOVaA==",
+  "dgSpecHash": "OnjyTw2eglbQSyRmvCjzhi9SDCQQTHvrvDry7OTELDTbKI8OASAiD4qAogj5Uz7BBc3LvN5GLGZksRJWLvQcuw==",
   "success": true,
   "projectFilePath": "/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter03/BitwiseAndShiftOperators/BitwiseAndShiftOperators.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.9/microsoft.netcore.app.host.osx-x64.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
