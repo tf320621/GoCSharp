@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "SwitchInSwitchFunctions"
+		}
+	],
+	"settings": {
+		"dotnetAcquisitionExtension.existingDotnetPath": [
+			
+
+
+		],
+		"dotnetAcquisitionExtension.installTimeoutValue": 30
+	}
+}
