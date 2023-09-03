@@ -1,0 +1,15 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/bin/Debug/net8.0/LambdaFunctions
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/bin/Debug/net8.0/LambdaFunctions.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/bin/Debug/net8.0/LambdaFunctions.runtimeconfig.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/bin/Debug/net8.0/LambdaFunctions.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/bin/Debug/net8.0/LambdaFunctions.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.sourcelink.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/refint/LambdaFunctions.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/LambdaFunctions.genruntimeconfig.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/LambdaFunctions/obj/Debug/net8.0/ref/LambdaFunctions.dll

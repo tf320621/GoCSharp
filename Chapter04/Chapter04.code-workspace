@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "SwitchInSwitchFunctions"
+		},
+		{
+			"path": "LambdaFunctions"
 		}
 	],
 	"settings": {
