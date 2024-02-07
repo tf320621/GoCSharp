@@ -1,7 +1,12 @@
-﻿using static System.Console;
+﻿using System.Diagnostics;
+using static System.Console;
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+
+
+Debug.WriteLine("Debug says, I am watching!");
+Trace.WriteLine("Trace says, I am watching!");
 
 // 编写switch嵌套switch
 
