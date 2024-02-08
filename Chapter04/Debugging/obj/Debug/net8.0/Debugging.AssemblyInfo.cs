@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LambdaFunctions")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Debugging")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcf62263c16270d069f708422e45dbe95834eaac")]
-[assembly: System.Reflection.AssemblyProductAttribute("LambdaFunctions")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LambdaFunctions")]
+[assembly: System.Reflection.AssemblyProductAttribute("Debugging")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Debugging")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

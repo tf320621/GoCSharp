@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingFunctions", "Writing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchInSwitchFunctions", "SwitchInSwitchFunctions\SwitchInSwitchFunctions.csproj", "{02369F16-9950-4031-B9FD-71A9A30F448B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{FBF72133-6BC0-46A6-ADE0-BB1A272B10BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{02369F16-9950-4031-B9FD-71A9A30F448B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02369F16-9950-4031-B9FD-71A9A30F448B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02369F16-9950-4031-B9FD-71A9A30F448B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF72133-6BC0-46A6-ADE0-BB1A272B10BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF72133-6BC0-46A6-ADE0-BB1A272B10BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF72133-6BC0-46A6-ADE0-BB1A272B10BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF72133-6BC0-46A6-ADE0-BB1A272B10BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
