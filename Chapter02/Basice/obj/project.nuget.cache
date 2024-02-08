@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0GRKqY9v/kE/W+Xf4ZtiJfhbmA/lk5o4dkEESrWEflFt5rE0Wduylx//QurshoulOBhVKtP6MtP+wOlWjhkcfQ==",
+  "dgSpecHash": "XtN7lrhEHQ88h8+2hjSlRIeFX1h0BD9WqsVdD5RZ6RcuIyvJZoalUGDnM8+Cqx/eE24Pt03mJI0gVqb79yE0EA==",
   "success": true,
   "projectFilePath": "/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter02/Basice/Basice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.ref/7.0.9/microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.9/microsoft.netcore.app.host.osx-x64.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
