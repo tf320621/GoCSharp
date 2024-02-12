@@ -1,0 +1,12 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/bin/Debug/net8.0/CalculatorLib.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.sourcelink.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/refint/CalculatorLib.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/CalculatorLib.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/CalculatorLib/obj/Debug/net8.0/ref/CalculatorLib.dll

@@ -1,0 +1,12 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.sourcelink.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter04/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll
