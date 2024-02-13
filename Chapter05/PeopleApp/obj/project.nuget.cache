@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9l1MgS4SkPJLPKkknvTqKCwiOtAy4PY0GVYvOzX4CIVM9YFhMW4T9OfLniGz0zl1HfQiXTykJesoKyfgXTuYA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter05/PeopleApp/PeopleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
