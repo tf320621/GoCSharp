@@ -1,0 +1,12 @@
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.deps.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/bin/Debug/net8.0/PacktLibrary.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.AssemblyInfo.cs
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.sourcelink.json
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/refint/PacktLibrary.dll
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/PacktLibrary.pdb
+/Users/mac/Project/CodeProject/C#入门经典/Code/Chapter06/PacktLibrary/obj/Debug/net8.0/ref/PacktLibrary.dll
